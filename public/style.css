@@ -54,6 +54,8 @@ img {
 	border-radius: 5%;
 	border-bottom: #3B3C3D solid 3px;
 	border-right: #3B3C3D solid 3px;
+	display: inline-block;
+	
 }
 
 #result a:hover{
